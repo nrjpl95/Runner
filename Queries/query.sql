@@ -1,1 +1,0 @@
-INSERT INTO Configuration VALUES(2,'TEST', 'TEST')
